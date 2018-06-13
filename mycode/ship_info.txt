@@ -1,0 +1,11 @@
+Val:
+('num all ships: ', 8960)
+('num images: ', 108)
+
+Train:
+('num all ships: ', 28068)
+('num images: ', 326)
+
+Train_split:
+('num all ships: ', 52423)
+('num images: ', 2397)
